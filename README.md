@@ -18,15 +18,14 @@ This project utilizes deep learning techniques to recognize emotions from facial
 - OpenCV
 - Keras
 - NumPy
-- Pillow
 
 ## Installation
 
 1. Install the required packages:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
-2. Download the model files (facialemotionmodel.json and facialemotionmodel_weights.h5) and place them in the project directory.
+2. Download the model files (emotiondetector.json and emotiondetector.h5) and place them in the project directory.
 
 3. Obtain the dataset from Kaggle and follow the instructions to include it in the project if necessary.
 
